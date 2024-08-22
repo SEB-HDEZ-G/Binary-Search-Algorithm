@@ -1,4 +1,4 @@
-//Octavio Sebastián Hernández Galindo - A01638993
+//Binary search
 #include <iostream>
 #include <vector>
 #include <string>
